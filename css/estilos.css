@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Water+Brush&display=swap');
+
+h1{
+    font-family:"Water Brush",cursive;
+
+}
+body{
+    background-image: url("https://elsol-compress-release.s3-accelerate.amazonaws.com/images/large/1593963006164Nevada%20julio%20-%20nieve%20(12).jpg");
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
